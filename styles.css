@@ -1,0 +1,12 @@
+#h1{
+    font-family: 'Do Hyeon', sans-serif;
+    max-width: 700px;
+    color: whitesmoke;
+}
+body{
+    background-color: rgb(29, 29, 29);
+}
+::selection {
+    color: rgb(255, 0, 0);
+    background: rgb(255, 255, 255);
+}
